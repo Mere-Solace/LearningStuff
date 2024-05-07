@@ -1,0 +1,4 @@
+name: LearningStuff
+version: '${project.version}'
+main: sol.meresolace.learningstuff.LearningStuff
+api-version: '1.20'
